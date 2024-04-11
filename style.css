@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(196, 212, 226);
+    background-color:aliceblue;
 }
 .geral{
   margin-top: 100px;
@@ -20,11 +20,6 @@ body{
     position: absolute;
     left: 70% ;
 }
-h2{
-    position: absolute;
-    left: 10%;
-    
-}
 button{
     background-color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
@@ -36,4 +31,15 @@ button{
 ul{
     position: absolute;
     left: 50%;
+    display: flex;
+}
+h2{
+    position: absolute;
+    left: 10%;
+    
+}
+h1{
+    background-color: black;
+    padding: 20px;
+    color: white;
 }

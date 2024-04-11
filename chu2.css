@@ -1,0 +1,17 @@
+body{
+    background-color:aliceblue ;
+}
+h2{
+    position: absolute;
+    left: 55%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    position: absolute;
+    left: 55%;
+    top: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img{
+    padding: 10px;
+}
