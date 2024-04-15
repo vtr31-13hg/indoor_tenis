@@ -12,6 +12,11 @@ p{
     top: 10%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.img4{
+    position: absolute;
+    left: 25%;
+
+}
 .img{
-    padding: 10px;
+    display: flex;
 }
