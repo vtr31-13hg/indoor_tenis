@@ -20,3 +20,27 @@ p{
 .img{
     display: flex;
 }
+h4{
+    position: absolute;
+    left: 55%;
+    top: 25%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+.tamanho{
+    position: absolute;
+    left: 55%;
+    top: 35%;
+}
+h5{
+    position: absolute;
+    left: 55%;
+    top: 50%;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.quantidade{
+    position: absolute;
+    left: 55%;
+    top: 60%;
+}
