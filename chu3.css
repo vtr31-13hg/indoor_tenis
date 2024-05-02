@@ -9,7 +9,7 @@ h2{
 p{
     position: absolute;
     left: 55%;
-    top: 10%;
+    top: 11%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .img4{
@@ -71,5 +71,12 @@ h6{
     left: 24%;
     top: 87%;
     
+}
+h3{
+    position: absolute;
+    left: 55%;
+    top: 8%;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
