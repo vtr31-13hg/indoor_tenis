@@ -66,11 +66,10 @@ h6{
     color:black;
     font-size: 15px; 
     text-align: center;
+    padding: 5px 15px 5px 15px;
     position: absolute;
     left: 24%;
     top: 87%;
-    padding: 2px;
-    
 }
 h3{
     position: absolute;
