@@ -34,6 +34,9 @@ button{
     text-align: center;
     margin-left: 42px;
 }
+button a:hover{
+    color: gray;
+}
 ul{
     position: absolute;
     left: 50%;
@@ -52,6 +55,9 @@ h2{
     background-color: black;
     color: white;
 
+}
+.menu a:hover{
+    color: gray;
 }
 
 ul a{
