@@ -71,9 +71,52 @@ b{
 .rodape{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: black;
-    margin-top: 400px;
+    margin-top: 600px;
     position: absolute;
     width: 100vw;
-    padding: 40px;
+    padding: 0 0 0px 0;
     color: aliceblue;
+    display: flex;
+}
+.redes{
+    margin-left: 1100px;
+    padding: 10px 0 0 0;
+   
+}
+
+
+
+.redes a{
+    text-decoration: none;
+}
+footer{
+   
+    margin-top: 765px;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    color: aliceblue;
+    padding: 30px 0 10px 400px;
+
+}
+.sobre{
+    
+    display: flex;
+    flex-direction: column;
+    padding: 0 0 5px 0;
+    margin-left: 70px;
+}
+.sobre a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.sobre a:hover{
+    text-decoration: underline;
+}
+
+h5{
+    font-size: 25px;
+}
+.redes a:hover{
+    text-decoration: underline;
 }
