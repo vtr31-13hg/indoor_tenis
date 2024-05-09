@@ -74,12 +74,12 @@ b{
     margin-top: 600px;
     position: absolute;
     width: 100vw;
-    padding: 0 0 0px 0;
+    
     color: aliceblue;
     display: flex;
 }
 .redes{
-    margin-left: 1100px;
+    margin-left: 500px;
     padding: 10px 0 0 0;
    
 }
@@ -91,7 +91,7 @@ b{
 }
 footer{
    
-    margin-top: 765px;
+    margin-top: 789px;
     width: 100%;
     background-color: black;
     position: absolute;
@@ -111,12 +111,29 @@ footer{
     color: aliceblue;
 }
 .sobre a:hover{
-    text-decoration: underline;
+color: gray;
 }
 
 h5{
     font-size: 25px;
 }
-.redes a:hover{
-    text-decoration: underline;
+img{
+    padding: 5px;
 }
+.ajuda{
+    
+    display: flex;
+    flex-direction: column;
+    padding: 5px 0 5px 0;
+    margin-left: 300px;
+}
+h4{
+    font-size: 25px;
+}
+.ajuda a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.ajuda a:hover{
+    color: gray;
+    }
